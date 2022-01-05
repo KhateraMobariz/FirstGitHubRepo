@@ -5,6 +5,8 @@ public class BranchExample {
 		// TODO Auto-generated method stub
 		
 		System.out.println(" Seleniume is fun");
+		
+		System.out.println(" Seleniume difficult");
 
 	}
 
