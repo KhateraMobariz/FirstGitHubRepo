@@ -7,7 +7,8 @@ public class Git {
 
 	}
 	public void methodA(){
-		System.out.prinln("This chnges from upstream, upstream means in remote repositry");
+		System.out.println("This chnges from upstream, upstream means in remote repositry");
 		
 
+}
 }
