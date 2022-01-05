@@ -11,4 +11,9 @@ public class Git {
 		
 
 }
+	public void methodB(){
+		//this is second method for practice purpose
+		
+	}
+	
 }
